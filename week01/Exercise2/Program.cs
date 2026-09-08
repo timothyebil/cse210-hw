@@ -10,7 +10,7 @@ class Program
         string answer = Console.ReadLine();
         int percent = int.Parse(answer);
 
-        string letter = "";
+        string letter = ""; 
 
         if (percent >= 90)
         {
