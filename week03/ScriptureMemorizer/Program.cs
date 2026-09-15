@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main(string[] args) 
     {
         // Example: Proverbs 3:5-6
         Reference reference = new Reference("Proverbs", 3, 5, 6);
