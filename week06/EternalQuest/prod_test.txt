@@ -1,0 +1,5 @@
+5370
+0
+SimpleGoal:Run a Marathon,Complete a full 26.2 mile race,1000,True
+EternalGoal:Read Scriptures,Read daily for 15 minutes,100
+ChecklistGoal:Attend the Temple,Go 4 times this month,50,4,4,500

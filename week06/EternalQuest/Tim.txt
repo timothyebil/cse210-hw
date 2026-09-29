@@ -1,0 +1,4 @@
+8500
+SimpleGoal:Waking Up Early at 4am,WUE4,500,True
+EternalGoal:Daily Scripture Study,DSS,200
+ChecklistGoal:Performing Temple Ordinances,PTO,1000,7,10,500
